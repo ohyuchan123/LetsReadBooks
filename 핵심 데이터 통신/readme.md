@@ -8,7 +8,7 @@ Ubiquitous
 
 - <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%ED%95%B5%EC%8B%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0/Contents/chapter01.md#1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%86%B5%EC%8B%A0%EC%9D%B4%EB%9E%80">Chapter 01 : 데이터 통신 개요</a>
 - <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%ED%95%B5%EC%8B%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0/Contents/chapter02.md#1-%ED%9A%8C%EC%84%A0-%EC%97%B0%EA%B2%B0">Chapter 02 : 데이터 통신망 구조</a>
-- chapter 03 : 프로토콜 계층 구조
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%ED%95%B5%EC%8B%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0/Contents/chapter03.md#1-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0">Chapter 03 : 프로토콜 계층 구조</a>
 - Chapter 04 : 신호
 - Chapter 05 : 신호 변환
 - Chapter 06 : 전송 매체
@@ -19,6 +19,6 @@ Ubiquitous
 - Chapter 11 : LAN
 - Chapter 12 : WAN
 - Chapter 13 : SONET/SDH
-- Chapter 14 : 다양한 뭇선 네트워크
+- Chapter 14 : 다양한 무선 네트워크
 - Chapter 15 : IP
 - Chapter 16 : TCP
