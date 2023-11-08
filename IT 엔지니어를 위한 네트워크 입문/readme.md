@@ -17,7 +17,10 @@
   - OSI 7계층과 TCP/IP
   - OSI 7계층별 이해하기
   - 인캡슐레이션과 디캡슐레이션
-- 2장. 네트워크 연결과 구성 요소
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/IT%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9E%85%EB%AC%B8/Contents/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%97%B0%EA%B2%B0%20%EB%B6%80%EB%B6%84.md#2%EC%9E%A5-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%97%B0%EA%B2%B0%EA%B3%BC-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C">2장. 네트워크 연결과 구성 요소</a>
+  - 네트워크 연결 구분(LAN & WAN)
+  - 네트워크 회선(인터넷 회선, 전용 회선, 인터넷 전용 회선, VPN, DWDM)
+  - 네트워크 구성 요소(네트워크 인터페이스 카드, 케이블과 커넥터, 허브, 스위치, 라우터, 로드 밸런서)
 - 3장. 네트워크 통신하기(1)
 - 3장. 네트워크 통신하기(2)
 - 4장. 스위치: 2계층 장비
