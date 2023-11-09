@@ -21,7 +21,7 @@
   - 네트워크 연결 구분(LAN & WAN)
   - 네트워크 회선(인터넷 회선, 전용 회선, 인터넷 전용 회선, VPN, DWDM)
   - 네트워크 구성 요소(네트워크 인터페이스 카드, 케이블과 커넥터, 허브, 스위치, 라우터, 로드 밸런서)
-- 3장. 네트워크 통신하기(1)
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/IT%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9E%85%EB%AC%B8/Contents/3.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%B5%EC%8B%A0%ED%95%98%EA%B8%B0.md#3-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0%ED%95%98%EA%B8%B0">3장. 네트워크 통신하기</a>
   - 유니캐스트, 멀티캐스트, 브로드캐스트, 애니캐스트
   - MAC 주소
   - IP 주소
@@ -29,7 +29,7 @@
   - **ARP**
   - **서브넷과 게이트웨이**
     [ARP와 서브넷과 게이트웨이는 다시 복습하기]
-- 4장. 스위치: 2계층 장비
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/IT%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9E%85%EB%AC%B8/Contents/4.%20%EC%8A%A4%EC%9C%84%EC%B9%98%20%3A%202%EA%B3%84%EC%B8%B5%20%EC%9E%A5%EB%B9%84.md#1-%EC%84%9C%EB%A1%A0">4장. 스위치: 2계층 장비</a>
   - 스위치 장비 동장
   - VLAN
   - STP
@@ -38,6 +38,10 @@
   - 경로 지정 - 라우팅/스위치
   - 라우팅 설정 방법
 - 6장. 로드 밸런서/방화벽: 4계층 장비(세션 장비)
+  - 4계층 장비의 특징
+  - 로드 밸런서
+  - 방화벽
+  - 4계층 장비를 통과할 때의 유의점(세션 관리)
 - 7장. 통신을 도와주는 네트워크 주요 기술
 - 8장. 서버 네트워크 기본
 - 9장. 보안
