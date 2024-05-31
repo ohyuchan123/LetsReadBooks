@@ -9,16 +9,17 @@
 
 ---
 
-- 핵심 데이터 통신 - 조현준 지음 **(END)**
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/tree/master/%ED%95%B5%EC%8B%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0#-ubiquitous-%EC%8B%9C%EB%8C%80%EB%A5%BC-%ED%96%A5%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%86%B5%EC%8B%A0">핵심 데이터 통신</a> - 조현준 지음 **(END)**
 - IT 엔지니어를 위한 네트워크 입문 - 고재성, 이성훈 지음
 - AWS 교과서 - 김원일, 서종호, 김석필 지음
 - 그림과 실습으로 배우는 도커 & 쿠버네티스 개념과 작동 원리가 쏙쏙 이해되는 완벽 입문서  
 오가사와라 시게타카 지음/심효섭 옮김
-- 면접을 위한 CS 전공지식 노트 - 주홍철 지음
+- 면접을 위한 CS 전공지식 노트 - 주홍철 지음 **(END)**
+- 기술 면접 대비 CS 전공 핵심요약집 - 이수진 지음
 - 개발자 글쓰기 - 김철수 지음 **(END)**
 - <a href="https://github.com/ohyuchan123/This-is-Java#this-is-java">이것이 자바다</a> - 신용권, 임경균 지음 **(END)**
 - Do it 자료구조와 함께 배우는 알고리즘 입문(자바 편) - BohYoh Shibata 지음/ 강민 옮김
-- <a href="https://github.com/ohyuchan123/LetsReadBooks/tree/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4#%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-with-python">이것이 취업을 위한 코딩 테스트다.</a> - 나동빈 지음
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/tree/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4#%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-with-python">이것이 취업을 위한 코딩 테스트다. with Python</a> - 나동빈 지음
 - EFFECTIVE JAVA 3/E - 쥬슈아 블로크 지음
 
 # 📝 Rule
