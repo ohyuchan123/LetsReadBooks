@@ -17,6 +17,8 @@
 ## 📝 규칙
 1. 개념을 제외한 문제 풀이는 먼저 내가 풀어보고 그 뒤에 풀이를 작성하기
 2. 만약 정 모르겠다면 🚧 를 사용하여 책의 풀이 해설 과정과 함께 작성하기
+3. 나중에 다시 한번 더 풀어 보기 or 비슷한 문제 찾아서 풀어보기
+4. 복습할 때 책 보고 문제 해설 정리하기
 
 ## 🗂️ 목차
 1. 코딩 테스트, 무엇을 어떻게 준비할까?
@@ -29,9 +31,9 @@
         -  🚧 1이 될 때까지 (<a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Contents/%EA%B7%B8%EB%A6%AC%EB%94%94/1%EC%9D%B4%20%EB%90%A0%20%EB%96%84%EA%B9%8C%EC%A7%80.md#%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%EA%B3%BC%EC%A0%95">Java</a>)
     - 아이디어를 코드로 바꾸는 구현
         - 🚧 상하 좌우(<a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Contents/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EB%8A%94%20%EA%B5%AC%ED%98%84/%EC%83%81%ED%95%98%20%EC%A2%8C%EC%9A%B0.md#%EC%BD%94%EB%93%9C-%EA%B5%AC%ED%98%84-%EA%B3%BC%EC%A0%95">Java</a>)
-        - 왕실의 나이트(<a href="">Java</a>)
+        - 🚧 시각(<a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Contents/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EB%8A%94%20%EA%B5%AC%ED%98%84/%EC%8B%9C%EA%B0%81.md#%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%EA%B3%BC%EC%A0%95">Java</a>)
+        - 🚧 왕실의 나이트(<a href="">Java</a>)
         - 게임 개발 (<a href="">Java</a>)
-    - <a href="">꼭 필요한 자료구조 기초</a>
     - <a href="">탐색 알고리즘 DFS & BFS</a>
         - 음료수 얼려 먹기(<a href="">Java</a>)
         - 미로 탈출(<a href="">Java</a>)
