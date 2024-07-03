@@ -27,7 +27,8 @@
         - 큰수의 법칙 (<a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Contents/%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%81%B0%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.md#%EA%B5%AC%ED%98%84-%EA%B3%BC%EC%A0%95">Java</a>)
         - 숫자 카드 게임 (<a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Contents/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.md#%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%EA%B3%BC%EC%A0%95">Java</a>)
         -  🚧 1이 될 때까지 (<a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Contents/%EA%B7%B8%EB%A6%AC%EB%94%94/1%EC%9D%B4%20%EB%90%A0%20%EB%96%84%EA%B9%8C%EC%A7%80.md#%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%EA%B3%BC%EC%A0%95">Java</a>)
-    - <a href="">아이디어를 코드로 바꾸는 구현</a> 
+    - 아이디어를 코드로 바꾸는 구현
+        - 🚧 상하 좌우(<a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Contents/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EB%8A%94%20%EA%B5%AC%ED%98%84/%EC%83%81%ED%95%98%20%EC%A2%8C%EC%9A%B0.md#%EC%BD%94%EB%93%9C-%EA%B5%AC%ED%98%84-%EA%B3%BC%EC%A0%95">Java</a>)
         - 왕실의 나이트(<a href="">Java</a>)
         - 게임 개발 (<a href="">Java</a>)
     - <a href="">꼭 필요한 자료구조 기초</a>
