@@ -14,15 +14,19 @@
 근래 들어서는 공개 채용(이하 공채)을 하느 기업에서 응시자 수를 효과적으로 줄이기 위한 방법으로 코딩테스트를 이용해여  
 채용 과정의 효율성을 높이고 있습니다.
 
+## 📝 규칙
+1. 개념을 제외한 문제 풀이는 먼저 내가 풀어보고 그 뒤에 풀이를 작성하기
+2. 만약 정 모르겠다면 🚧 를 사용하여 책의 풀이 해설 과정과 함께 작성하기
+
 ## 🗂️ 목차
 1. 코딩 테스트, 무엇을 어떻게 준비할까?
     - <a href="https://yuchan-log.notion.site/38650cad3ce2445eb204ee25f3be543c?pvs=4">알고리즘의 성능 복잡도</a>
 
 2. 주요 알고리즘 이론과 실전 문제
-    - <a href="">당장 좋은 것만 선택하는 그리디</a>  
-        - 큰수의 법칙 (<a href="">Java</a>)
-        - 숫자 카드 게임 (<a href="">Java</a>)
-        - 1이 될 때까지 (<a href="">Java</a>)
+    - <a href="https://yuchan-log.notion.site/6823061f201c43e3a73155e06ad376a9?pvs=4">당장 좋은 것만 선택하는 그리디</a>  
+        - 큰수의 법칙 (<a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Contents/%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%81%B0%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.md#%EA%B5%AC%ED%98%84-%EA%B3%BC%EC%A0%95">Java</a>)
+        - 숫자 카드 게임 (<a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Contents/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.md#%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%EA%B3%BC%EC%A0%95">Java</a>)
+        -  🚧 1이 될 때까지 (<a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Contents/%EA%B7%B8%EB%A6%AC%EB%94%94/1%EC%9D%B4%20%EB%90%A0%20%EB%96%84%EA%B9%8C%EC%A7%80.md#%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%EA%B3%BC%EC%A0%95">Java</a>)
     - <a href="">아이디어를 코드로 바꾸는 구현</a> 
         - 왕실의 나이트(<a href="">Java</a>)
         - 게임 개발 (<a href="">Java</a>)

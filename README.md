@@ -1,13 +1,9 @@
 # 📚 LetsReadBooks
 
----
-
 기술 서적을 읽으면서 정리한 곳입니다.  
 무작정 책에 있는 글을 카피하기 보단 내용을 최대한 요약해서 정리하고 있습니다.
 
 # 📗 Book
-
----
 
 - <a href="https://github.com/ohyuchan123/LetsReadBooks/tree/master/%ED%95%B5%EC%8B%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0#-ubiquitous-%EC%8B%9C%EB%8C%80%EB%A5%BC-%ED%96%A5%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%86%B5%EC%8B%A0">핵심 데이터 통신</a> - 조현준 지음 **(END)**
 - IT 엔지니어를 위한 네트워크 입문 - 고재성, 이성훈 지음
@@ -23,8 +19,6 @@
 - EFFECTIVE JAVA 3/E - 쥬슈아 블로크 지음
 
 # 📝 Rule
-
----
 
 1. 각 `Chapter`마다 각 책의 `readme.md`파일에 작성하여 커밋하기
 2. 책을 통해서 실습할 수 있는 부분은 실습해서 정리하기
