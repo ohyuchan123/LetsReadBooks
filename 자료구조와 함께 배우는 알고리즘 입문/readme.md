@@ -5,10 +5,18 @@
 - <a href="https://m.yes24.com/Goods/Detail/109185787">책 출처</a>
 
 ## 2. 목차
-1. 기본 알고리즘
+1. <a href="https://yuchan-log.notion.site/09a6324df4f146e297e9674d3a6aa0d5?pvs=4">알고리즘이란?</a>
 2. 기본 자료구조
-    - <a href="">배열</a>
-    - <a href="">클래스</a>
+    - <a href="https://yuchan-log.notion.site/47a6ad19eff849dbb907773f3d088538?pvs=4">배열</a> : [자료구조 정의하기, 배열 다루기, 배열 요소의 최댓값 구하기]  
+        **보충 수업**
+        - 값을 대입하지 않은 지역 변수
+        - 메서드의 매개변수로 배열
+        - 난수로 생성
+        - 전위형 증가 연산자와 후위형 증가 연산자
+        - 기수 나열하기
+    - <a href="https://yuchan-log.notion.site/d6718aab341f4cfcbc3d2ecb8e6490b6?pvs=4">클래스</a> : [클래스 다루기, 클래스에서 배열 구현하기]  
+        **보충 수업**
+        - 클래스 더 알아보기
 3. 검색 알고리즘
 4. 스택과 큐
 5. 재귀 알고리즘
