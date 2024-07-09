@@ -6,7 +6,7 @@
 
 ## 2. 목차
 1. <a href="https://yuchan-log.notion.site/09a6324df4f146e297e9674d3a6aa0d5?pvs=4">알고리즘이란?</a>
-2. 기본 자료구조
+2. 기본 자료구조 : [본격적인 자료구조에 대해서 알아보기에 앞서 자료구조란?](https://yuchan-log.notion.site/205d809fedd444bba89586034500d59c?pvs=4)
     - <a href="https://yuchan-log.notion.site/47a6ad19eff849dbb907773f3d088538?pvs=4">배열</a> : [자료구조 정의하기, 배열 다루기, 배열 요소의 최댓값 구하기]  
         **보충 수업**
         - 값을 대입하지 않은 지역 변수
