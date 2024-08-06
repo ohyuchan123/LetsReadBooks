@@ -12,14 +12,14 @@
 
 ### PART 02 데이터베이스 프로그래머
 > 데이터베이스 프로그래머는 SQL을 공부하면서 필요한 내용을 계속해서 추가해 나가도록 하곘습니다.
-- <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5/PART%2002%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8/chapter%2003%20SQL%20%EA%B8%B0%EC%B4%88.md#sql-%EA%B8%B0%EC%B4%88-%EC%9A%94%EC%95%BD">SQL 기초</a>
-- <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5/PART%2002%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8/chapter%2004%20SQL%20%EA%B3%A0%EA%B8%89.md#sql-%EA%B3%A0%EA%B8%89-%EC%9A%94%EC%95%BD">SQL 고급</a>
-- <a href="">데이터베이스 프로그래밍</a>
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5/PART%2002%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8/chapter%2003%20SQL%20%EA%B8%B0%EC%B4%88.md#sql-%EA%B8%B0%EC%B4%88-%EC%9A%94%EC%95%BD">Chapter 03 SQL 기초</a>
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5/PART%2002%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8/chapter%2004%20SQL%20%EA%B3%A0%EA%B8%89.md#sql-%EA%B3%A0%EA%B8%89-%EC%9A%94%EC%95%BD">Chapter 04 SQL 고급</a>
+- <a href="">Chapter 05 데이터베이스 프로그래밍</a>
 
 ### PART 03 데이터베이스 설계자
-- <a href="">데이터 모델링</a>
-- <a href="">정규화</a>
+- <a href="">Chapter 06 데이터 모델링</a>
+- <a href="">Chapter 07 정규화</a>
 
 ### PART 04 데이터베이스 관리자
-- <a href="">트랜잭션, 동시성 제어, 회복</a>
-- <a href="">데이터베이스 관리와 보안</a>
+- <a href="">Chapter 08 트랜잭션, 동시성 제어, 회복</a>
+- <a href="">Chapter 09 데이터베이스 관리와 보안</a>
