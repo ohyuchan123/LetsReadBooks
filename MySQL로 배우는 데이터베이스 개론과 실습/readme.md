@@ -14,12 +14,12 @@
 > 데이터베이스 프로그래머는 SQL을 공부하면서 필요한 내용을 계속해서 추가해 나가도록 하곘습니다.
 - <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5/PART%2002%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8/chapter%2003%20SQL%20%EA%B8%B0%EC%B4%88.md#sql-%EA%B8%B0%EC%B4%88-%EC%9A%94%EC%95%BD">Chapter 03 SQL 기초</a>
 - <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5/PART%2002%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8/chapter%2004%20SQL%20%EA%B3%A0%EA%B8%89.md#sql-%EA%B3%A0%EA%B8%89-%EC%9A%94%EC%95%BD">Chapter 04 SQL 고급</a>
-- <a href="">Chapter 05 데이터베이스 프로그래밍</a>
+- Chapter 05 데이터베이스 프로그래밍
 
 ### PART 03 데이터베이스 설계자
-- <a href="">Chapter 06 데이터 모델링</a>
-- <a href="">Chapter 07 정규화</a>
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5/PART%2003%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84%EC%9E%90/Chapter%2006%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EB%A7%81.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81">Chapter 06 데이터 모델링</a>
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5/PART%2003%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84%EC%9E%90/Chapter%2007%20%EC%A0%95%EA%B7%9C%ED%99%94.md#%EC%A0%95%EA%B7%9C%ED%99%94">Chapter 07 정규화</a>
 
 ### PART 04 데이터베이스 관리자
-- <a href="">Chapter 08 트랜잭션, 동시성 제어, 회복</a>
-- <a href="">Chapter 09 데이터베이스 관리와 보안</a>
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5/PART%2004%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B4%80%EB%A6%AC%EC%9E%90/Chapter%2008%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%2C%20%EB%8F%99%EC%8B%9C%EC%84%B1%20%EC%A0%9C%EC%96%B4%2C%20%ED%9A%8C%EB%B3%B5.md#%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4-%ED%9A%8C%EB%B3%B5">Chapter 08 트랜잭션, 동시성 제어, 회복</a>
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/blob/master/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5/PART%2004%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B4%80%EB%A6%AC%EC%9E%90/Chapter%2009%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B4%80%EB%A6%AC%EC%99%80%20%EB%B3%B4%EC%95%88.md#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B4%80%EB%A6%AC%EC%99%80-%EB%B3%B4%EC%95%88">Chapter 09 데이터베이스 관리와 보안</a>
