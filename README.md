@@ -3,6 +3,8 @@
 기술 서적을 읽으면서 정리한 곳입니다.  
 무작정 책에 있는 글을 카피하기 보단 내용을 최대한 요약해서 정리하고 있습니다.
 
+또한 다음 책의 제목에는 각각의 정리한 내용들의 README로 이동할 수 있는 링크입니다.
+
 # 📗 Book
 - <a href="https://github.com/ohyuchan123/LetsReadBooks/tree/master/%ED%95%B5%EC%8B%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0#-ubiquitous-%EC%8B%9C%EB%8C%80%EB%A5%BC-%ED%96%A5%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%86%B5%EC%8B%A0">핵심 데이터 통신</a> - 조현준 지음 **(END)**
 - <a href="https://github.com/ohyuchan123/LetsReadBooks/tree/master/IT%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9E%85%EB%AC%B8#-it-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9E%85%EB%AC%B8">IT 엔지니어를 위한 네트워크 입문 - 고재성, 이성훈 지음</a> **(END)**
@@ -14,6 +16,8 @@
 - Real MySQL 8.0 1권
 - Real MySAL 8.0 2권
 - <a href="https://github.com/The-journey-of-Backends/Spring-Boot#spring-boot">스프링 부트 핵심 가이드 (스프링 부트를 활용한 애플리케이션 개발 실무)</a> - 장정우 지음
+- <a href="">모든 개발자를 위한 HTTP 웹 기본 지식</a> - 김영한
+- <a href="">자바 ORM 표준 JPA(Java Persistence API) 프로그래밍</a> - 김영한 지음
 - AWS 교과서 - 김원일, 서종호, 김석필 지음
 - 그림과 실습으로 배우는 도커 & 쿠버네티스 개념과 작동 원리가 쏙쏙 이해되는 완벽 입문서  
 오가사와라 시게타카 지음/심효섭 옮김
