@@ -7,11 +7,7 @@
 현재는 아래 노션 블로그의 각 카테고리에서 더 자세한 내용을 확인하실 수 있습니다.
 
 ### 🔗 카테고리별 정리
-- [Language](https://www.notion.so/yuchan-log/144e393caf8a807584d5eec76da52a1d?v=144e393caf8a806898a8000c6ea6d610&pvs=4)
-- [Backend](https://www.notion.so/yuchan-log/144e393caf8a80969386ccede80b6fc6?v=144e393caf8a80b485ed000c004d0c6d&pvs=4)
-- [Database](https://www.notion.so/yuchan-log/144e393caf8a80c992f8c0b652be0767?v=144e393caf8a800f8dbe000cdf1d0b18&pvs=4)
-- [DevOps](https://www.notion.so/yuchan-log/144e393caf8a80a5b774ed30cd44400c?v=144e393caf8a80469abd000c05ad5f4f&pvs=4)
-- [CS](https://www.notion.so/yuchan-log/148e393caf8a80ce9188d8ee95e61fe5?v=637f8d6acee140b08067fb767faee299&pvs=4)
+- [LetsReadBooks](https://yuchan-log.notion.site/Book-Study-16ce393caf8a80b0b435d169e5c7df87?pvs=4)
 
 ## 📖 독서 현황
 
