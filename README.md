@@ -7,7 +7,7 @@
 현재는 아래 노션 블로그의 각 카테고리에서 더 자세한 내용을 확인하실 수 있습니다.
 
 ### 🔗 카테고리별 정리
-- [LetsReadBooks](https://yuchan-log.notion.site/Book-Study-16ce393caf8a80b0b435d169e5c7df87?pvs=4)
+- [LetsReadBooks](https://yuchan-log.notion.site/Study-Growth-20ec47d14c09493b9bef7062a93b1099?pvs=4)
 
 ## 📖 독서 현황
 
