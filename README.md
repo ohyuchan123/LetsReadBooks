@@ -14,7 +14,7 @@
 최근 Clean Code 책 이후부터는 github organization을 통해서 관리하고 있습니다.  
 다음 레포지토리에서느 저의 의견으로 지금 제가 관리하고 있는 `LetsReadBooks` 형식 처럼 관리되고 있습니다.
 
-- [LetsReadBooks] (https://github.com/BackToFutureStudy/LetsReadBooks)
+- [LetsReadBooks](https://github.com/BackToFutureStudy/LetsReadBooks)
 
 ## 📖 독서 현황
 
