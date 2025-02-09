@@ -7,6 +7,9 @@
 현재는 아래 노션 블로그의 각 카테고리에서 더 자세한 내용을 확인하실 수 있습니다.
 
 ### 🔗 카테고리별 정리
+다음 링크는 제가 개인적으로 관리하고 있는 LetsReadBooks 입니다. 위에서 언급 했듯이 현재는 노션에서 전체적으로  
+관리하고 있습니다.
+
 - [LetsReadBooks](https://yuchan-log.notion.site/Study-Growth-20ec47d14c09493b9bef7062a93b1099?pvs=4)
 
 ### 🙋🏻 스터디 독서 모임
