@@ -14,8 +14,8 @@
 
 ### 🙋🏻 스터디 독서 모임
 원티드 챌린지를 하던 중 책을 읽고 정리하고 서로 공유하는 스터디에 들어가게 되었습니다. 이전까지는 개인적으로 작성하였지만,  
-최근 Clean Code 책 이후부터는 github organization을 통해서 관리하고 있습니다.  
-다음 레포지토리에서느 저의 의견으로 지금 제가 관리하고 있는 `LetsReadBooks` 형식 처럼 관리되고 있습니다.
+최근 Clean Code 책 이후부터는 github organization을 통해서 관리하고 있습니다. 다음 레포지토리에서느 저의 의견으로  
+지금 제가 관리하고 있는 `LetsReadBooks` 형식 처럼 관리되고 있습니다.
 
 - [LetsReadBooks](https://github.com/BackToFutureStudy/LetsReadBooks)
 
